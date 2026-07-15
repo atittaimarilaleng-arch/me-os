@@ -9,4 +9,27 @@ body{
     background:#ffffff;
     color:#111111;
     line-height:1.6;
+    h1{
+    font-size:56px;
+    margin-bottom:20px;
+}
+
+p{
+    font-size:22px;
+    color:#666;
+    max-width:600px;
+    line-height:1.6;
+    margin:20px auto;
+}
+
+.button{
+    display:inline-block;
+    margin-top:40px;
+    padding:16px 32px;
+    background:#111;
+    color:white;
+    border-radius:999px;
+    text-decoration:none;
+    font-weight:bold;
+}
 }
